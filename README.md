@@ -1,28 +1,9 @@
-<!---------- Typing SVG ---------->
-<p align="center">
-    <a href="https://i.imgur.com/QhgiNnx.jpg">
-        <img
-            src="https://readme-typing-svg.herokuapp.com?font=Halo+Handletter&color=00FF00&size=32&lines=WELCOME+TO+LUZI-MWOL;WHATSAPP+BOT+[LUZI]...;MADE+BY....;ABU-SER-AMRU-SER-WINTRO-SER"
-            alt="Typing SVG"
-        />
-    </a>
+   
+<div align="center">
+<div align="center">
+  <p align="center">
+<img src=https://i.imgur.com/8LoHMT8.png>
 </p>
-
-
-
-<p align="center">
-  <a href="httsp://github.com/Afx-Abu/uploads">
-    <img src="https://img.shields.io/github/repo-size/Afx-Abu/uploads?color=Lime&label=Repo%20total%20size&style=for-the-badge&logo=appveyor">
-<p align="center"> <size="50000"&width="100000">
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
     
 
