@@ -27,7 +27,7 @@
     
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Afx-Abu/Abuser-Qr?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Afx-Abu/Luzi-Mwol?v=1)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://bit.ly/Luzi-Mwol)
      </div>
