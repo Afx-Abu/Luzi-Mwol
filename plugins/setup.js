@@ -7,7 +7,7 @@ const fs = require("fs")
 const Language = require('../language');
 const Lang = Language.getString('gitlink');
 
-Asena.addCommand({pattern: 'coy', fromMe: false, desc: Lang.GL}, (async (message, match) => {
+Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message, match) => {
 
     var respoimage = await axios.get(Config.LG_LOGO, { responseType: 'arraybuffer' })
 
