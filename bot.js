@@ -133,7 +133,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('💜 Luzi Mwol Working !')
+            chalk.green.bold('💖 Luzi Mwol Working !')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -158,7 +158,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*` + config.NAME_STYLE + ` sᴛᴀʀᴛᴇᴅ*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*ʟᴜᴢɪ sᴛᴀʀᴛᴇᴅ*', MessageType.text);
                 }
             }
             else {
@@ -180,7 +180,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*` + config.NAME_STYLE + ` sᴛᴀʀᴛᴇᴅ*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*ʟᴜᴢɪ sᴛᴀʀᴛᴇᴅ*', MessageType.text);
                 }
 
             }
@@ -206,7 +206,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                await conn.sendMessage(conn.user.jid, '*` + config.NAME_STYLE + ` sᴛᴀʀᴛᴇᴅ*', MessageType.text);
+                await conn.sendMessage(conn.user.jid, '*ʟᴜᴢɪ sᴛᴀʀᴛᴇᴅ*', MessageType.text);
                 }
             }
             else {
@@ -229,7 +229,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*` + config.NAME_STYLE + ` sᴛᴀʀᴛᴇᴅ*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*ʟᴜᴢɪ sᴛᴀʀᴛᴇᴅ*', MessageType.text);
                 }
             }
         }
@@ -396,7 +396,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ ` + config.BOT + ` ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '* + config.BOT + *'
                                     '\n\n*ғᴏᴜɴᴅ ᴀ ᴇʀʀᴏʀ :' + error + '*\n\n```ᴇʀʀᴏʀ ɪs ɴᴏᴛ ᴀ ᴘʀᴏʙʟᴇᴍ\nᴊᴏɪɴ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ᴅᴏᴜʙᴛ :\nhttps://chat.whatsapp.com/CooPMGJIC5gJ8LRVnp8HWu``` ' 
                                     , MessageType.text);
                             }
