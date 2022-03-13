@@ -4,7 +4,7 @@ const exec = require('child_process').exec;
 const os = require("os");
 const fs = require('fs');
 const Config = require('../config')
-Abu.addCommand({ pattern: 'owner ?(.*)', fromMe: false, desc: 'owner number' }, (async (message, match) => {
+Abu.addCommand({ pattern: 'git ?(.*)', fromMe: false, desc: 'owner number' }, (async (message, match) => {
 
 
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
