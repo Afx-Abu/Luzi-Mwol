@@ -29,7 +29,7 @@
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "*😥` + config.NAME_STYLE + ` ᴇ ɪᴠᴀʀ ᴀʀᴜᴍ ᴀᴅᴍɪɴ ᴀᴋɪᴛɪʟʟᴀ sᴇᴅ ᴀᴋɪʏᴀʟʟᴏ😥ɴᴊᴀɴ ᴍɪɴᴅᴀᴛʜɪʟʟᴀ*",
+            "IM_NOT_ADMIN": "*😥ʟᴜᴢɪ ᴍᴡᴏʟᴇ ɪᴠᴀʀ ᴀʀᴜᴍ ᴀᴅᴍɪɴ ᴀᴋɪᴛɪʟʟᴀ sᴇᴅ ᴀᴋɪʏᴀʟʟᴏ😥ɴᴊᴀɴ ᴍɪɴᴅᴀᴛʜɪʟʟᴀ*",
             "BANNED": "😋ᴀᴘᴘᴏ ᴘɪɴɴᴇ ᴇɴɢᴀɴᴀ ᴏᴋ ʙʏ ᴅᴀ ᴍᴏɴᴜsᴇ😎!",
             "GIVE_ME_USER": "*🤭ɴᴇᴇ ᴏʀᴜ ᴜsᴇʀɪɴᴇ ᴛʜᴀᴅᴏ ᴇɴᴛʜᴀɴ😊!*",
             "ADD_DESC": "Adds someone to the group.",
@@ -82,9 +82,9 @@
             "MUST_TEXT": "```Please reply to any message```"
         },
         "heroku": {
-            "RESTART_DESC": "♡︎..ʀᴇsᴛᴀʀᴛ ` + config.NAME_STYLE + `..♡︎",
+            "RESTART_DESC": "♡︎..ʀᴇsᴛᴀʀᴛ ʟᴜᴢɪ..♡︎",
             "RESTART_MSG": "```♡︎..ʀᴇsᴛᴀʀᴛɪɴɢ..♡︎```",
-            "SHUTDOWN_DESC": "♡︎..sʜᴜᴛᴅᴏᴡɴ ` + config.NAME_STYLE + `..♡︎",
+            "SHUTDOWN_DESC": "♡︎..sʜᴜᴛᴅᴏᴡɴ ʟᴜᴢɪ..♡︎",
             "SHUTDOWN_MSG": "```♡︎..sʜᴜᴛᴛɪɴɢ ᴅᴏᴡɴ..♡︎```",
             "DYNO_DESC": "Check heroku dyno usage",
             "DYNO_TOTAL": "```Total Quota```",
@@ -193,7 +193,7 @@
             "CURRENCY_ERROR": "```Syntax error! Example: .currency 1 TRY USD```",
             "INVALID_CURRENCY": "```Foreign currency transaction failed. You wrote wrong currency!```",
             "UNKNOWN_ERROR": "```An error occurred. Foreign currency transaction failed!```",
-            "TTS_DESC": "♡︎..` + config.NAME_STYLE + ` ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎.",
+            "TTS_DESC": "♡︎..ʟᴜᴢɪ ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎.",
             "TTS_ERROR": "```Error, Speech example of your sentence couldn't be made!```",
             "SONG_DESC": "Uploads the song you wrote.",
             "ISONG_DESC": "Uploads the song you wrote for ios users.",
@@ -204,11 +204,11 @@
             "URL": "LINK",
             "THUMB": "THUMB",
             "RATING": "RATING",
-            "UPLOADING_SONG": "* ♡︎..` + config.NAME_STYLE + ` ɪs ᴍᴜsɪᴄ ᴜᴘʟᴏᴀᴅɪɴɢᴡᴀɪᴛ ʙʀᴏ..♡︎ 😎*",
+            "UPLOADING_SONG": "* ♡︎..ʟᴜᴢɪ ɪs ᴍᴜsɪᴄ ᴜᴘʟᴏᴀᴅɪɴɢᴡᴀɪᴛ ʙʀᴏ..♡︎ 😎*",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://youtu.be/JLtyF-LJ-LU```",
-            "DOWNLOADING_VIDEO": "*♡︎..` + config.NAME_STYLE + `  ᴛʜᴀᴘᴘᴀᴛᴇ ᴡᴀɪᴛ ʙʀᴏ..♡*",
-            "UPLOADING_VIDEO": "* ♡︎..` + config.NAME_STYLE + `  ᴜᴘʟᴏᴀᴅɪɴɢ..♡︎*",
+            "DOWNLOADING_VIDEO": "*♡︎..ʟᴜᴢɪ ᴍᴡᴏʟ ᴛʜᴀᴘᴘᴀᴛᴇ ᴡᴀɪᴛ ʙʀᴏ..♡*",
+            "UPLOADING_VIDEO": "* ♡︎..ʟᴜᴢɪ ᴍᴡᴏʟ ᴜᴘʟᴏᴀᴅɪɴɢ..♡︎*",
             "LOADING": "*Downloading video*",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
@@ -220,9 +220,9 @@
             "IMG": "Uploading photo ```{}``` number ```{} ```..."
         },
         "sticker": {
-            "STICKER_DESC": "♡︎..` + config.NAME_STYLE + ` ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎.",
+            "STICKER_DESC": "♡︎..ʟᴜᴢɪ ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎.",
             "NEED_REPLY": "*oru photokko videokko reply thaa😂!*",
-            "DOWNLOADING": "```♡︎..` + config.NAME_STYLE + ` ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎```"
+            "DOWNLOADING": "```♡︎..ʟᴜᴢɪ ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -244,14 +244,14 @@
         },
         "updater": {
             "UPDATER_DESC": "ᴄʜᴇᴄᴋs ᴛʜᴇ ᴜᴘᴅᴀᴛᴇ.",
-            "UPDATE": "*☆ ` + config.NAME_STYLE + `  ᴀʟʀᴇᴅʏ ᴜᴘᴅᴀᴛᴇᴅ ☆!*",
-            "NEW_UPDATE": "*ʙʀᴏ ᴘʟᴇᴀsᴇ ᴜᴘᴅᴀᴛᴇ ` + config.NAME_STYLE + ` 😊*\n .update now ᴛʏᴘᴇ ᴛʜɪs😆 \n\n sᴜᴘᴘᴏᴛɪɴɢ ɢʀᴏᴜᴘ ᴘʟᴇᴀsᴇ ᴊᴏɪɴ : *https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk* ```",
+            "UPDATE": "*☆ ʟᴜᴢɪ ᴍᴡᴏʟ ᴀʟʀᴇᴅʏ ᴜᴘᴅᴀᴛᴇᴅ ☆!*",
+            "NEW_UPDATE": "*ʙʀᴏ ᴘʟᴇᴀsᴇ ᴜᴘᴅᴀᴛᴇ ʟᴜᴢɪ ᴍᴡᴏʟ😊*\n .update now ᴛʏᴘᴇ ᴛʜɪs😆 \n\n sᴜᴘᴘᴏᴛɪɴɢ ɢʀᴏᴜᴘ ᴘʟᴇᴀsᴇ ᴊᴏɪɴ : *https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk* ```",
             "UPDATE_NOW_DESC": "ɪᴛ ᴍᴀᴋᴇs ᴜᴘᴅᴀᴛᴇs.",
-            "UPDATING": "♡︎..` + config.NAME_STYLE + `  ᴜᴘᴅᴀᴛɪɴɢ ᴡ8..♡︎",
+            "UPDATING": "♡︎..ʟᴜᴢɪ ᴍᴡᴏʟ ᴜᴘᴅᴀᴛɪɴɢ ᴡ8..♡︎",
             "INVALID_HEROKU": "*❌ Your Heroku app name or api key wrong!*",
-            "UPDATED": "*♡︎..` + config.NAME_STYLE + ` ᴜᴘᴅᴀᴛɪɴɢ ᴄᴏᴍᴘʟᴇᴀᴛᴇᴅ ✅*",
-            "UPDATED_LOCAL": "*💝` + config.NAME_STYLE + ` ɪs ᴜᴘᴅᴀᴛᴇᴅ💝!*",
-            "AFTER_UPDATE": "*💖` + config.NAME_STYLE + `  ʀᴇsᴛᴀʀᴛɪɴɢ💖!*",
+            "UPDATED": "*♡︎..ʟᴜᴢɪ ᴍᴡᴏʟ ᴜᴘᴅᴀᴛɪɴɢ ᴄᴏᴍᴘʟᴇᴀᴛᴇᴅ ✅*",
+            "UPDATED_LOCAL": "*💝ʟᴜᴢɪ ɪs ᴜᴘᴅᴀᴛᴇᴅ💝!*",
+            "AFTER_UPDATE": "*💖ʟᴜᴢɪ ᴍᴡᴏʟ ʀᴇsᴛᴀʀᴛɪɴɢ💖!*",
             "IN_AF": "*Please check* ```HEROKU_APP_NAME``` *and* ```app name``` *They must be same.*\n*If these two values ​​are the same, please restore* ```HEROKU_API_KEY```\n\n_To access these settings, use Heroku >> App >> Settings >> Reavel Config Vars_\n_To renew your API key, follow these steps, Heroku >> Account >> API Key then replace old api key in config vars._"
         },
         "whois": {
@@ -308,14 +308,14 @@
             "URL": "Shorten the long link."
         },
         "conventer": {
-            "MP4TOAUDİO_DESC": "♡︎..` + config.NAME_STYLE + ` ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎ .",
+            "MP4TOAUDİO_DESC": "♡︎..ʟᴜᴢɪ ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎ .",
             "MP4TOAUDİO_NEEDREPLY": "*ʙʀᴏ ʏᴏᴜ ᴄᴀɴ ᴍᴇɴsʜᴏɴ ʏᴏᴜʀ ᴘʜᴏᴛᴏ😹!*",
-            "MP4TOAUDİO": "```⚡♡︎..` + config.NAME_STYLE + ` ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎ ..```",
-            "ANİM_STİCK": "♡︎..` + config.NAME_STYLE + ` ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎ .",
-            "ANİMATE": "```♡︎..` + config.NAME_STYLE + ` ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎..```",
-            "STİCKER_DESC": "♡︎..` + config.NAME_STYLE + ` ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎.",
+            "MP4TOAUDİO": "```⚡♡︎..ʟᴜᴢɪ ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎ ..```",
+            "ANİM_STİCK": "♡︎..ʟᴜᴢɪ ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎ .",
+            "ANİMATE": "```♡︎..ʟᴜᴢɪ ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎..```",
+            "STİCKER_DESC": "♡︎..ʟᴜᴢɪ ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎.",
             "STİCKER_NEEDREPLY": "*♫︎ʙʀᴏ ᴏʀᴜ ᴘʜᴏᴛᴏ ᴍᴇɴsʜᴏɴ ᴄʜᴀʏʏᴜɴᴇ😹!*",
-            "STİCKER": "```♡︎..` + config.NAME_STYLE + ` ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎..```",
+            "STİCKER": "```♡︎..ʟᴜᴢɪ ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎..```",
             "XMEDİA_DESC": "It is a plugin with more than 25 media tools.",
             "T_FALSE": "```❌ Incorrect Blend Effect Entered!```\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
             "T_NOT": "```💭 You Need To Enter Any Blend Effects!\n```🔎 Existing Commands:```\n\n*$dodge* - Applies a pink color filter to the video.\n*$multiply* - Applies a green color filter to the video.\n*$grainmerge* - Increases the contrast of the video.\n*$and* - Applies black lightning effect according to the speed of the video.\n*$or* - Applies a white lightning effect according to the speed of the video.\n*$burn* - Applies green contrast to video.\n*$difference* - Shows the differences by applying green relief to the video.\n*$grainextract* - Shows the differences by applying gray relief to the video.\n*$divide* - Demonstrates the differences by applying a pink relief to the video.\n*$xor* - Applies both green relief and lightning effect to video.\n*$hardmix* - Mixes the colors of the video into a yellow and red tone.\n*$negation* - Turns the dynamics of the video to pink.",
@@ -404,9 +404,9 @@
             "MUTE_OPEN": "```The group chat has unmuted!```"
         },
         "unvoice": {
-            "UV_DESC": "♡︎..` + config.NAME_STYLE + ` ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎",
+            "UV_DESC": "♡︎..ʟᴜᴢɪ ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎",
             "UV_REPLY": "Da oru Audio Filen reply thaa!*",
-            "UV_PROC": "```♡︎..` + config.NAME_STYLE + ` ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎..```"
+            "UV_PROC": "```♡︎..ʟᴜᴢɪ ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎..```"
         },
         "ffmpeg": {
             "FF_DESC": "Applies the desired ffmpeg filter to the video.\n⌨️ Example: .ffmpeg fade=in:0:30",
@@ -417,7 +417,7 @@
             "NEED_WORD": "*Need Some Words!*",
             "STOP_SPAMDESC": "Stops spam command.",
             "STOP_SPAM": "✅ *Spam successfully stopped! Please wait a moment.*",
-            "ST_DESC": "♡︎..` + config.NAME_STYLE + ` ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎",
+            "ST_DESC": "♡︎..ʟᴜᴢɪ ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎",
             "ST_ST": "```Please Don't Reply to Stciker!```\n```Only Reply to Video or Photo!```",
             "ST_NEED": "```You Must Reply To Any Video Or Photo!```",
             "AU_DESC": "Sends the replied audio as spam.",
@@ -443,13 +443,13 @@
             "URL": "*You must enter the image URL!*\n*Example:* https://i.hizliresim.com/nrg50b.jpg"
         },
         "ttp": {
-            "TTP_DESC": "♡︎..` + config.NAME_STYLE + ` ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎.",
+            "TTP_DESC": "♡︎..ʟᴜᴢɪ ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎.",
             "ATTP_DESC": "Adds rainbow effect to the text as a sticker.",
             "NEED_WORD": "*Da monuse oru word thaada😂*",
             "ANIME_DESC": "It writes the text inside the banner the anime girl is holding",
-            "TRUMP_DESC": "♡︎..` + config.NAME_STYLE + ` ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎.",
+            "TRUMP_DESC": "♡︎..ʟᴜᴢɪ ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎.",
             "CHANGE_DESC": "Turns the text into the change my mind poster.",
-            "GLOW_DESC": "♡︎..` + config.NAME_STYLE + ` ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎."
+            "GLOW_DESC": "♡︎..ʟᴜᴢɪ ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎."
         },
         "wallpaper": {
             "WP": "It sends high resolution wallpapers."
@@ -461,7 +461,7 @@
         "voicy": {
             "NEED_REPLY": "```Please reply to any message!```",
             "ONLY_AUDIO":"```Only audio file is accepted.```",
-            "USAGE": "♡︎..` + config.NAME_STYLE + ` ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎",
+            "USAGE": "♡︎..ʟᴜᴢɪ ɪs ᴄᴏɴᴠᴇʀᴛɪɴɢ ᴡᴀɪᴛ ʙʀᴏ..♡︎",
             "TEXT": "*Hey! I listened secretly to this voice and heard those!:* \n\n"
         },
         "notes": {
