@@ -77,7 +77,7 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
                 ['SUDO']: match[1]
             }
         });
-        await message.sendMessage("NEW SUDO UPDATED")
+        await message.sendMessage("♡︎ɴᴇᴡ sᴜᴅᴏ ᴜᴘᴅᴀᴛᴇᴅ.♡︎")
     }));
 
     Julie.addCommand({ pattern: 'caption ?(.*)', fromMe: true, desc: 'changes all captions', usage: '.caption *Made by JulieMwol*' }, (async (message, match) => {
@@ -87,7 +87,7 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
                 ['ALL_CAPTION']: match[1]
             }
         });
-        await message.sendMessage("NEW CAPTION UPDATED")
+        await message.sendMessage("ɴᴇᴡ ᴄᴀᴘᴛɪᴏɴ ᴜᴘᴅᴀᴛᴇᴅ")
     }));
 
     Julie.addCommand({ pattern: 'handlers ?(.*)', fromMe: true, desc: 'changes handlers', usage: '.handler ^[.!] ' }, (async (message, match) => {
@@ -97,7 +97,7 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
                 ['ALL_CAPTION']: match[1]
             }
         });
-        await message.sendMessage("NEW HANDLER UPDATED")
+        await message.sendMessage("ɴᴇᴡ ʜᴀɴᴅʟᴇʀ ᴜᴘᴅᴀᴛᴇᴅ")
     }));
 
 
@@ -108,7 +108,7 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
                 ['BOT_NAME']: match[1]
             }
         });
-        await message.sendMessage("NEW BOT NAME UPDATED")
+        await message.sendMessage("ɴᴇᴡ ʙᴏᴛ ɴᴀᴍᴇ ᴜᴘᴅᴀᴛᴇᴅ")
     }));
 
 Julie.addCommand({ pattern: 'theri  ?(.*)', fromMe: true, desc: 'change your theri commands', usage: '.theri command,command' }, (async (message, match) => {
@@ -118,5 +118,5 @@ Julie.addCommand({ pattern: 'theri  ?(.*)', fromMe: true, desc: 'change your the
                 ['THERI_LIST']: match[1]
             }
         });
-        await message.sendMessage("THERI LIST UPDATED")
+        await message.sendMessage("ᴛʜᴇʀɪ ʟɪsᴛ ᴜᴘᴅᴀᴛᴇᴅ")
     }));
