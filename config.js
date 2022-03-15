@@ -74,6 +74,7 @@ module.exports = {
     LG_LOGO: process.env.LG_LOGO === undefined ? 'https://i.imgur.com/ucS4OCE.jpg' : process.env.LG_LOGO,
     LOGO_NAME: process.env.LOGO_NAME === undefined ? 'ꪶ͢ɪͥᴛͭsᷤ ͢ᴍͫᴇͤᡃ⃝ʟᴜᴢɪ ᴍᴡᴏʟ࿐' : process.env.LOGO_NAME,
     INSTA: process.env.LINK === undefined ? 'https://instagram.com/_.lino_ox' : process.env.LINK,
+    YT: process.env.LINK === undefined ? 'https://instagram.com/_.lino_ox' : process.env.LINK,
     BRANCH: 'Ajx-Abu-patch',
     HEROKU: {
         HEROKU: process.env.HEROKU === undefined ? false : convertToBool(process.env.HEROKU),
