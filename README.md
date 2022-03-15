@@ -1,19 +1,31 @@
-   
-<div align="center">
+ <div align="center">
 <div align="center">
   <p align="center">
 <img src=https://i.imgur.com/8LoHMT8.png>
 </p>
+
+<div align="center">
+
+<a href="https://replit.com/@Afx-Abu/Luzi-Mwol?v=1"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
+<br>
+
+<a href="https://bit.ly/Luzi-Mwol"><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
+   <br>
+<div>
+
+  
+<div>
+<br>
+<br>
+
+<div>
+    
+
     
     
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Afx-Abu/Luzi-Mwol?v=1)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://bit.ly/Luzi-Mwol)
-     </div>
-     [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://bit.ly/2XqQKMU)
- 
  <div align="center">
 
 ## ☾︎𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁☽︎
